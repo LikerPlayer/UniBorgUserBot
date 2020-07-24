@@ -13,6 +13,9 @@ Mozilla Public License for more details.
 
 ## installing
 
+####The Easiest Way
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 #### The Legacy Way
 Simply clone the repository and run the main file:
 ```sh
